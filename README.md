@@ -18,8 +18,9 @@ Este projeto realiza a mineração de dados em um conjunto de filmes usando os d
 
 ### Execução:
 Execute o arquivo atorFilme.py para obter os pares de filme e ator:
+  ```bash
 python atorFilme.py
 
-### Resultados:
+3. Resultados:
 O resultado será exibido no terminal, mostrando os filmes e os atores associados a eles.
 
